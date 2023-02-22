@@ -1,0 +1,1 @@
+fishshell use for autocomplete login
